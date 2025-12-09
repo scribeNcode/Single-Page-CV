@@ -2,7 +2,7 @@
 This project is part of the frontend development exercises of [roadmap.sh](https://roadmap.sh/projects/single-page-cv). The goal is to create a single-page CV (Curriculum Vitae) using only HTML.
 --- 
 Template :
-![Project template](./Images/resume-cv-template.jpg)
+**Link to design:** https://roadmap.sh/projects/single-page-cv
 
 ## Key Requirements
 
